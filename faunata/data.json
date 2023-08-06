@@ -1,170 +1,314 @@
 [
   {
-    "img":"https://images.unsplash.com/photo-1614481779176-68de49e77fb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QWxiYXRyb3NzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "imgSource": "https://unsplash.com/photos/5IYqAH4ZTrM",
-    "title":"Albatross",
-    "content":"Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes (the tubenoses). They range widely in the Southern Ocean and the North Pacific. They are absent from the North Atlantic, although fossil remains show they once occurred there and occasional vagrants are found. Albatrosses are among the largest of flying birds, and species of the genus Diomedea (great albatrosses) have the longest wingspans of any extant birds, reaching up to 3.7 m (12 ft). The albatrosses are usually regarded as falling into four genera, but disagreement exists over the number of species.\n\nAlbatrosses are highly efficient in the air, using dynamic soaring and slope soaring to cover great distances with little exertion. They feed on squid, fish, and krill by either scavenging, surface seizing, or diving. Albatrosses are colonial, nesting for the most part on remote oceanic islands, often with several species nesting together. Pair bonds between males and females form over several years, with the use of \"ritualised dances\", and last for the life of the pair. A breeding season can take over a year from laying to fledging, with a single egg laid in each breeding attempt. A Laysan albatross, named Wisdom, on Midway Island is the oldest-known wild bird in the world; she was first banded in 1956 by Chandler Robbins.\n\nOf the 22 species of albatrosses recognised by the IUCN, 21 are listed as at some level of concern; two species are Critically Endangered, seven species are Endangered, six species are Vulnerable, and six species are Near Threatened.[2] Numbers of albatrosses have declined in the past due to harvesting for feathers. Albatrosses are threatened by introduced species, such as rats and feral cats that attack eggs, chicks, and nesting adults; by pollution; by a serious decline in fish stocks in many regions largely due to overfishing; and by longline fishing. Longline fisheries pose the greatest threat, as feeding birds are attracted to the bait, become hooked on the lines, and drown. Identified stakeholders such as governments, conservation organisations, and people in the fishing industry are all working toward reducing this bycatch.",
-    "contentSource":"https://en.wikipedia.org/wiki/Albatross"
+    "img": "https://images.unsplash.com/photo-1614481779176-68de49e77fb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QWxiYXRyb3NzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "imgSource": {
+      "title": "Unsplash",
+      "url": "https://unsplash.com/photos/5IYqAH4ZTrM"
+    },
+    "title": "Albatross",
+    "content": "Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes (the tubenoses). They range widely in the Southern Ocean and the North Pacific. They are absent from the North Atlantic, although fossil remains show they once occurred there and occasional vagrants are found. Albatrosses are among the largest of flying birds, and species of the genus Diomedea (great albatrosses) have the longest wingspans of any extant birds, reaching up to 3.7 m (12 ft). The albatrosses are usually regarded as falling into four genera, but disagreement exists over the number of species.\n\nAlbatrosses are highly efficient in the air, using dynamic soaring and slope soaring to cover great distances with little exertion. They feed on squid, fish, and krill by either scavenging, surface seizing, or diving. Albatrosses are colonial, nesting for the most part on remote oceanic islands, often with several species nesting together. Pair bonds between males and females form over several years, with the use of \"ritualised dances\", and last for the life of the pair. A breeding season can take over a year from laying to fledging, with a single egg laid in each breeding attempt. A Laysan albatross, named Wisdom, on Midway Island is the oldest-known wild bird in the world; she was first banded in 1956 by Chandler Robbins.\n\nOf the 22 species of albatrosses recognised by the IUCN, 21 are listed as at some level of concern; two species are Critically Endangered, seven species are Endangered, six species are Vulnerable, and six species are Near Threatened.[2] Numbers of albatrosses have declined in the past due to harvesting for feathers. Albatrosses are threatened by introduced species, such as rats and feral cats that attack eggs, chicks, and nesting adults; by pollution; by a serious decline in fish stocks in many regions largely due to overfishing; and by longline fishing. Longline fisheries pose the greatest threat, as feeding birds are attracted to the bait, become hooked on the lines, and drown. Identified stakeholders such as governments, conservation organisations, and people in the fishing industry are all working toward reducing this bycatch.",
+    "contentSource": {
+      "title": "Unsplash",
+      "url": "https://en.wikipedia.org/wiki/Albatross"
+    }
   },
   {
-    "img":"https://images.unsplash.com/photo-1582395880240-8a89060981de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFycmFjdWRhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "imgSource": "https://unsplash.com/photos/CIV0DPeMc3w",
-    "title":"Barracuda",
-    "content":"A barracuda is a large, predatory, ray-finned fish known for its fearsome appearance and ferocious behaviour. The barracuda is a saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815.[2] It is found in tropical and subtropical oceans worldwide ranging from the eastern border of the Atlantic Ocean to the Red Sea, on its western border the Caribbean Sea, and in tropical areas of the Pacific Ocean. Barracudas reside near the top of the water and near coral reefs and sea grasses.[3] Barracudas are targeted by sport-fishing enthusiasts.",
-    "contentSource":"https://en.wikipedia.org/wiki/Barracuda"
+    "img": "https://images.unsplash.com/photo-1582395880240-8a89060981de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFycmFjdWRhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "imgSource": {
+      "title": "Unsplash",
+      "url": "https://unsplash.com/photos/CIV0DPeMc3w"
+    },
+    "title": "Barracuda",
+    "content": "A barracuda is a large, predatory, ray-finned fish known for its fearsome appearance and ferocious behaviour. The barracuda is a saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815.[2] It is found in tropical and subtropical oceans worldwide ranging from the eastern border of the Atlantic Ocean to the Red Sea, on its western border the Caribbean Sea, and in tropical areas of the Pacific Ocean. Barracudas reside near the top of the water and near coral reefs and sea grasses.[3] Barracudas are targeted by sport-fishing enthusiasts.",
+    "contentSource": {
+      "title": "Unsplash",
+      "url": "https://en.wikipedia.org/wiki/Barracuda"
+    }
   },
   {
-    "img":"https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2F0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "imgSource": "https://unsplash.com/photos/gKXKBY-C-Dk",
-    "title":"Cat",
-    "content":"The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.[6]\n\nThe cat is similar in anatomy to the other felid species: it has a strong flexible body, quick reflexes, sharp teeth, and retractable claws adapted to killing small prey like mice and rats. Its night vision and sense of smell are well developed. Cat communication includes vocalizations like meowing, purring, trilling, hissing, growling, and grunting as well as cat-specific body language. Although the cat is a social species, it is a solitary hunter. As a predator, it is crepuscular, i.e. most active at dawn and dusk. It can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small mammals.[7] It also secretes and perceives pheromones.[8]\n\nFemale domestic cats can have kittens from spring to late autumn, with litter sizes often ranging from two to five kittens.[9] Domestic cats are bred and shown at events as registered pedigreed cats, a hobby known as cat fancy. Population control of cats may be achieved by spaying and neutering, but their proliferation and the abandonment of pets has resulted in large numbers of feral cats worldwide, contributing to the extinction of entire bird, mammal, and reptile species.[10]\n\nIt was long thought that cat domestication began in ancient Egypt, where cats were venerated from around 3100 BC,[11][12] but recent advances in archaeology and genetics have shown that their domestication occurred in the Near East around 7500 BC.[13]\n\nAs of 2021, there were an estimated 220 million owned and 480 million stray cats in the world.[14][15] As of 2017, the domestic cat was the second most popular pet in the United States, with 95.6 million cats owned[16][17] and around 42 million households owning at least one cat.[18] In the United Kingdom, 26% of adults have a cat, with an estimated population of 10.9 million pet cats as of 2020.[19]",
-    "contentSource":"https://en.wikipedia.org/wiki/Cat"
+    "img": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2F0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "imgSource": {
+      "title": "Unsplash",
+      "url": "https://unsplash.com/photos/gKXKBY-C-Dk"
+    },
+    "title": "Cat",
+    "content": "The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.[6]\n\nThe cat is similar in anatomy to the other felid species: it has a strong flexible body, quick reflexes, sharp teeth, and retractable claws adapted to killing small prey like mice and rats. Its night vision and sense of smell are well developed. Cat communication includes vocalizations like meowing, purring, trilling, hissing, growling, and grunting as well as cat-specific body language. Although the cat is a social species, it is a solitary hunter. As a predator, it is crepuscular, i.e. most active at dawn and dusk. It can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small mammals.[7] It also secretes and perceives pheromones.[8]\n\nFemale domestic cats can have kittens from spring to late autumn, with litter sizes often ranging from two to five kittens.[9] Domestic cats are bred and shown at events as registered pedigreed cats, a hobby known as cat fancy. Population control of cats may be achieved by spaying and neutering, but their proliferation and the abandonment of pets has resulted in large numbers of feral cats worldwide, contributing to the extinction of entire bird, mammal, and reptile species.[10]\n\nIt was long thought that cat domestication began in ancient Egypt, where cats were venerated from around 3100 BC,[11][12] but recent advances in archaeology and genetics have shown that their domestication occurred in the Near East around 7500 BC.[13]\n\nAs of 2021, there were an estimated 220 million owned and 480 million stray cats in the world.[14][15] As of 2017, the domestic cat was the second most popular pet in the United States, with 95.6 million cats owned[16][17] and around 42 million households owning at least one cat.[18] In the United Kingdom, 26% of adults have a cat, with an estimated population of 10.9 million pet cats as of 2020.[19]",
+    "contentSource": {
+      "title": "Unsplash",
+      "url": "https://en.wikipedia.org/wiki/Cat"
+    }
   },
   {
-    "img":"https://images.unsplash.com/photo-1602023395780-b36f512ae72d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RG9ua2V5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
-    "imgSource": "https://unsplash.com/photos/79BRmxPm2Bc",
-    "title":"Donkey",
-    "content":"The donkey is a domesticated equine. It derives from the African wild ass, Equus africanus, and may be classified either as a subspecies thereof, Equus africanus asinus, or as a separate species, Equus asinus.[1]: 1  It was domesticated in Africa some 5000–7000 years ago,[1]: 2 [2]: 3715 [3] and has been used mainly as a working animal since that time.\n\nThere are more than 40 million donkeys in the world, mostly in underdeveloped countries, where they are used principally as draught or pack animals. While working donkeys are often associated with those living at or below subsistence, small numbers of donkeys or asses are kept for breeding or as pets in developed countries.\n\nAn adult male donkey is a jack or jackass, an adult female is a jenny or jennet,[4][5][6] and an immature donkey of either sex is a foal.[6] Jacks are often mated with female horses (mares) to produce mules; the less common hybrid of a male horse (stallion) and jenny is a hinny.",
-    "contentSource":"https://en.wikipedia.org/wiki/Donkey"
+    "img": "https://images.unsplash.com/photo-1602023395780-b36f512ae72d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RG9ua2V5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+    "imgSource": {
+      "title": "Unsplash",
+      "url": "https://unsplash.com/photos/79BRmxPm2Bc"
+    },
+    "title": "Donkey",
+    "content": "The donkey is a domesticated equine. It derives from the African wild ass, Equus africanus, and may be classified either as a subspecies thereof, Equus africanus asinus, or as a separate species, Equus asinus.[1]: 1  It was domesticated in Africa some 5000–7000 years ago,[1]: 2 [2]: 3715 [3] and has been used mainly as a working animal since that time.\n\nThere are more than 40 million donkeys in the world, mostly in underdeveloped countries, where they are used principally as draught or pack animals. While working donkeys are often associated with those living at or below subsistence, small numbers of donkeys or asses are kept for breeding or as pets in developed countries.\n\nAn adult male donkey is a jack or jackass, an adult female is a jenny or jennet,[4][5][6] and an immature donkey of either sex is a foal.[6] Jacks are often mated with female horses (mares) to produce mules; the less common hybrid of a male horse (stallion) and jenny is a hinny.",
+    "contentSource": {
+      "title": "Unsplash",
+      "url": "https://en.wikipedia.org/wiki/Donkey"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60", 
-    "imgSource": "https://unsplash.com/photos/gRB4Euk4BYQ43",
+    "img": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "imgSource": {
+      "title": "Unsplash",
+      "url": "https://unsplash.com/photos/gRB4Euk4BYQ43"
+    },
     "title": "Tiger",
     "content": "The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat to support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years and then become independent, leaving their mother's home range to establish their own.\n\nThe tiger was first scientifically described in 1758. It once ranged widely from the Eastern Anatolia Region in the west to the Amur River basin in the east, and in the south from the foothills of the Himalayas to Bali in the Sunda Islands. Since the early 20th century, tiger populations have lost at least 93% of their historic range and have been extirpated from Western and Central Asia, the islands of Java and Bali, and in large areas of Southeast and South Asia and China. What remains of the range where tigers still roam free is fragmented, stretching in spots from Siberian temperate forests to subtropical and tropical forests on the Indian subcontinent, Indochina and a single Indonesian island, Sumatra.\n\nThe tiger is listed as Endangered on the IUCN Red List. As of 2015, the global wild tiger population was estimated to number between 3,062 and 3,948 mature individuals, with most populations living in small isolated pockets. India currently hosts the largest tiger population. Major reasons for population decline are habitat destruction, habitat fragmentation and poaching. Tigers are also victims of human–wildlife conflict, due to encroachment in countries with a high human population density.\n\nThe tiger is among the most recognisable and popular of the world's charismatic megafauna. It featured prominently in the ancient mythology and folklore of cultures throughout its historic range and continues to be depicted in modern films and literature, appearing on many flags, coats of arms and as mascots for sporting teams. The tiger is the national animal of India, Bangladesh, Malaysia and South Korea.",
-    "contentSource": "https://en.wikipedia.org/wiki/Tiger"
+    "contentSource": {
+      "title": "Unsplash",
+      "url": "https://en.wikipedia.org/wiki/Tiger"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "null",
+    "contentSource": {
+      "title": "null",
+      "url": "null"
+    }
   },
   {
-    "img":"null",
-    "imgSource": "null",
-    "title":"null",
-    "content":"null",
-    "contentSource":"null"
+    "img": "null",
+    "imgSource": {
+      "title": "null",
+      "url": "null"
+    },
+    "title": "null",
+    "content": "Zebras (US: /ˈziːbrəz/, UK: /ˈzɛbrəz, ˈziː-/)[1] (subgenus Hippotigris) are African equines with distinctive black-and-white striped coats. There are three living species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga), and the mountain zebra (E. zebra). Zebras share the genus Equus with horses and asses, the three groups being the only living members of the family Equidae. Zebra stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a deterrent for biting flies. Zebras inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands, and mountainous areas.\n\nZebras are primarily grazers and can subsist on lower-quality vegetation. They are preyed on mainly by lions, and typically flee when threatened but also bite and kick. Zebra species differ in social behaviour, with plains and mountain zebra living in stable harems consisting of an adult male or stallion, several adult females or mares, and their young or foals; while Grévy's zebra live alone or in loosely associated herds. In harem-holding species, adult females mate only with their harem stallion, while male Grévy's zebras establish territories which attract females and the species is promiscuous. Zebras communicate with various vocalisations, body postures and facial expressions. Social grooming strengthens social bonds in plains and mountain zebras.\n\nZebras' dazzling stripes make them among the most recognisable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated. The International Union for Conservation of Nature (IUCN) lists the Grévy's zebra as endangered, the mountain zebra as vulnerable and the plains zebra as near-threatened. The quagga (E. quagga quagga), a type of plains zebra, was driven to extinction in the 19th century. Nevertheless, zebras can be found in numerous protected areas.",
+    "contentSource": {
+      "title": "null",
+      "url": "https://en.m.wikipedia.org/wiki/Zebra"
+    }
   }
 ]
