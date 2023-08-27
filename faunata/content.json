@@ -1,0 +1,334 @@
+{
+  "ads": {
+    "appOpen": "ca-app-pub-3940256099942544/3419835294",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "nativeAdInterval": 5,
+    "interstitialChance": 30
+  },
+  "data": [
+    {
+      "img": "https://images.unsplash.com/photo-1614481779176-68de49e77fb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QWxiYXRyb3NzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/5IYqAH4ZTrM"
+      },
+      "title": "Albatross",
+      "content": "Albatrosses, of the biological family Diomedeidae, are large seabirds related to the procellariids, storm petrels, and diving petrels in the order Procellariiformes (the tubenoses). They range widely in the Southern Ocean and the North Pacific. They are absent from the North Atlantic, although fossil remains show they once occurred there and occasional vagrants are found. Albatrosses are among the largest of flying birds, and species of the genus Diomedea (great albatrosses) have the longest wingspans of any extant birds, reaching up to 3.7 m (12 ft). The albatrosses are usually regarded as falling into four genera, but disagreement exists over the number of species.\n\nAlbatrosses are highly efficient in the air, using dynamic soaring and slope soaring to cover great distances with little exertion. They feed on squid, fish, and krill by either scavenging, surface seizing, or diving. Albatrosses are colonial, nesting for the most part on remote oceanic islands, often with several species nesting together. Pair bonds between males and females form over several years, with the use of \"ritualised dances\", and last for the life of the pair. A breeding season can take over a year from laying to fledging, with a single egg laid in each breeding attempt. A Laysan albatross, named Wisdom, on Midway Island is the oldest-known wild bird in the world; she was first banded in 1956 by Chandler Robbins.\n\nOf the 22 species of albatrosses recognised by the IUCN, 21 are listed as at some level of concern; two species are Critically Endangered, seven species are Endangered, six species are Vulnerable, and six species are Near Threatened.[2] Numbers of albatrosses have declined in the past due to harvesting for feathers. Albatrosses are threatened by introduced species, such as rats and feral cats that attack eggs, chicks, and nesting adults; by pollution; by a serious decline in fish stocks in many regions largely due to overfishing; and by longline fishing. Longline fisheries pose the greatest threat, as feeding birds are attracted to the bait, become hooked on the lines, and drown. Identified stakeholders such as governments, conservation organisations, and people in the fishing industry are all working toward reducing this bycatch.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Albatross"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1582395880240-8a89060981de?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8QmFycmFjdWRhfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/CIV0DPeMc3w"
+      },
+      "title": "Barracuda",
+      "content": "A barracuda is a large, predatory, ray-finned fish known for its fearsome appearance and ferocious behaviour. The barracuda is a saltwater fish of the genus Sphyraena, the only genus in the family Sphyraenidae, which was named by Constantine Samuel Rafinesque in 1815.[2] It is found in tropical and subtropical oceans worldwide ranging from the eastern border of the Atlantic Ocean to the Red Sea, on its western border the Caribbean Sea, and in tropical areas of the Pacific Ocean. Barracudas reside near the top of the water and near coral reefs and sea grasses.[3] Barracudas are targeted by sport-fishing enthusiasts.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Barracuda"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Q2F0fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/gKXKBY-C-Dk"
+      },
+      "title": "Cat",
+      "content": "The cat (Felis catus) is a domestic species of small carnivorous mammal.[1][2] It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family.[4] Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact.[5] Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.[6]\n\nThe cat is similar in anatomy to the other felid species: it has a strong flexible body, quick reflexes, sharp teeth, and retractable claws adapted to killing small prey like mice and rats. Its night vision and sense of smell are well developed. Cat communication includes vocalizations like meowing, purring, trilling, hissing, growling, and grunting as well as cat-specific body language. Although the cat is a social species, it is a solitary hunter. As a predator, it is crepuscular, i.e. most active at dawn and dusk. It can hear sounds too faint or too high in frequency for human ears, such as those made by mice and other small mammals.[7] It also secretes and perceives pheromones.[8]\n\nFemale domestic cats can have kittens from spring to late autumn, with litter sizes often ranging from two to five kittens.[9] Domestic cats are bred and shown at events as registered pedigreed cats, a hobby known as cat fancy. Population control of cats may be achieved by spaying and neutering, but their proliferation and the abandonment of pets has resulted in large numbers of feral cats worldwide, contributing to the extinction of entire bird, mammal, and reptile species.[10]\n\nIt was long thought that cat domestication began in ancient Egypt, where cats were venerated from around 3100 BC,[11][12] but recent advances in archaeology and genetics have shown that their domestication occurred in the Near East around 7500 BC.[13]\n\nAs of 2021, there were an estimated 220 million owned and 480 million stray cats in the world.[14][15] As of 2017, the domestic cat was the second most popular pet in the United States, with 95.6 million cats owned[16][17] and around 42 million households owning at least one cat.[18] In the United Kingdom, 26% of adults have a cat, with an estimated population of 10.9 million pet cats as of 2020.[19]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Cat"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1602023395780-b36f512ae72d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8RG9ua2V5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/79BRmxPm2Bc"
+      },
+      "title": "Donkey",
+      "content": "The donkey is a domesticated equine. It derives from the African wild ass, Equus africanus, and may be classified either as a subspecies thereof, Equus africanus asinus, or as a separate species, Equus asinus.[1]: 1  It was domesticated in Africa some 5000–7000 years ago,[1]: 2 [2]: 3715 [3] and has been used mainly as a working animal since that time.\n\nThere are more than 40 million donkeys in the world, mostly in underdeveloped countries, where they are used principally as draught or pack animals. While working donkeys are often associated with those living at or below subsistence, small numbers of donkeys or asses are kept for breeding or as pets in developed countries.\n\nAn adult male donkey is a jack or jackass, an adult female is a jenny or jennet,[4][5][6] and an immature donkey of either sex is a foal.[6] Jacks are often mated with female horses (mares) to produce mules; the less common hybrid of a male horse (stallion) and jenny is a hinny.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Donkey"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1560653251-84afe9d7eef7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Nnx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=700&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/byw35Ua2cEM"
+      },
+      "title": "Eagle",
+      "content": "Eagle is the common name for many large birds of prey of the family Accipitridae. Eagles belong to several groups of genera, some of which are closely related. True eagles comprise the genus Aquila. Most of the 68 species of eagles are from Eurasia and Africa.[1] Outside this area, just 14 species can be found—2 in North America, 9 in Central and South America, and 3 in Australia.\nEagles are not a natural group but denote essentially any kind of bird of prey large enough to hunt sizeable (about 50 cm long or more overall) vertebrates.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Eagle"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1538933251213-9e044ce589be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGZsYW1pbmdvfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/2dOmHAE9VlM"
+      },
+      "title": "Flamingo",
+      "content": "Flamingos or flamingoes[a] /fləˈmɪŋɡoʊz/ are a type of wading bird in the family Phoenicopteridae, which is the only extant family in the order Phoenicopteriformes. There are four flamingo species distributed throughout the Americas (including the Caribbean), and two species native to Afro-Eurasia.\nA group of flamingoes is called a \"flamboyance\".[2]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Flamingo"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1624975981958-9e5ea70cc8d1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8R29yaWxsYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/r5QsqLJ3znU"
+      },
+      "title": "Gorilla",
+      "content": "Gorillas are herbivorous, predominantly ground-dwelling great apes that inhabit the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 95 to 99% depending on what is included, and they are the next closest living relatives to humans after chimpanzees and bonobos.\nGorillas are the largest living primates, reaching heights between 1.25 and 1.8 metres, weights between 100 and 270 kg, and arm spans up to 2.6 metres, depending on species and sex. They tend to live in troops, with the leader being called a silverback. The Eastern gorilla is distinguished from the Western by darker fur colour and some other minor morphological differences. Gorillas tend to live 35–40 years in the wild.\n\nGorillas' natural habitats cover tropical or subtropical forest in Sub-Saharan Africa. Although their range covers a small percentage of Sub-Saharan Africa, gorillas cover a wide range of elevations. The mountain gorilla inhabits the Albertine Rift montane cloud forests of the Virunga Volcanoes, ranging in altitude from 2,200 to 4,300 metres (7,200 to 14,100 ft). Lowland gorillas live in dense forests and lowland swamps and marshes as low as sea level, with western lowland gorillas living in Central West African countries and eastern lowland gorillas living in the Democratic Republic of the Congo near its border with Rwanda.\n\nThere are thought to be around 316,000 western gorillas in the wild, and 5,000 eastern gorillas. Both species are classified as Critically Endangered by the IUCN; all subspecies are classified as Critically Endangered with the exception of the mountain gorilla, which is classified as Endangered. There are many threats to their survival, such as poaching, habitat destruction, and disease, which threaten the survival of the species. However, conservation efforts have been successful in some areas where they live.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Gorilla"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1548767797-d8c844163c4c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SGFtc3RlcnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/MUcxe_wDurE"
+      },
+      "title": "Hamster",
+      "content": "Hamsters are rodents (order Rodentia) belonging to the subfamily Cricetinae, which contains 19 species classified in seven genera.[1][2] They have become established as popular small pets.[3] The best-known species of hamster is the golden or Syrian hamster (Mesocricetus auratus), which is the type most commonly kept as pets. Other hamster species commonly kept as pets are the three species of dwarf hamster, Campbell's dwarf hamster (Phodopus campbelli), the winter white dwarf hamster (Phodopus sungorus) and the Roborovski hamster (Phodopus roborovskii).\nHamsters are more crepuscular than nocturnal and, in the wild, remain underground during the day to avoid being caught by predators. They feed primarily on seeds, fruits, and vegetation, and will occasionally eat burrowing insects.[4] Physically, they are stout-bodied with distinguishing features that include elongated cheek pouches extending to their shoulders, which they use to carry food back to their burrows, as well as a short tail and fur-covered feet.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Hamster"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1601145777725-483cd94d6d7d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fElndWFuYXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/GHSUjSKB5C0"
+      },
+      "title": "Iguana",
+      "content": "Iguana (/ɪˈɡwɑːnə/,[3][4] Spanish: [iˈɣwana]) is a genus of herbivorous lizards  America, and the Caribbean. The genus was first described in 1768 by Austrian naturalist Josephus Nicolaus Laurenti in his book Specimen Medicum, Exhibens Synopsin Reptilium Emendatam cum Experimentis circa Venena. Two species are placed in the genus, the green iguana, which is widespread throughout its range and a popular pet, and the Lesser Antillean iguana, which is native to the Lesser Antilles. Genetic analysis indicates that the green iguana may comprise a complex of multiple species, some of which have been recently described, but the Reptile Database considers all of these as subspecies of the green iguana.[5][6]\nThe word \"iguana\" is derived from the original Taino name for the species, iwana.[7] In addition to the two species in the genus Iguana, several other related genera in the same family have common names of the species including the word \"iguana\".[8]\n\nThe species is a popular quarry for pets, and non-native animals have been widely introduced beyond its native area, into Ishigaki Island, the Florida Peninsula, Hawaii, Singapore, Thailand, Taiwan, and including numerous islands with native Iguana populations in the Lesser Antilles.[6][9]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Iguana"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1569691105751-88df003de7a4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SmFndWFyfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/83uG2S0aT_I"
+      },
+      "title": "Jaguar",
+      "content": "The jaguar (Panthera onca) is a large cat species and the only living member of the genus Panthera native to the Americas. With a body length of up to 1.85 m (6 ft 1 in) and a weight of up to 158 kg (348 lb), it is the largest cat species in the Americas and the third largest in the world. Its distinctively marked coat features pale yellow to tan colored fur covered by spots that transition to rosettes on the sides, although a melanistic black coat appears in some individuals. The jaguar's powerful bite allows it to pierce the carapaces of turtles and tortoises, and to employ an unusual killing method: it bites directly through the skull of mammalian prey between the ears to deliver a fatal blow to the brain.\nThe modern jaguar's ancestors probably entered the Americas from Eurasia during the Early Pleistocene via the land bridge that once spanned the Bering Strait. Today, the jaguar's range extends from core Southwestern United States across Mexico and much of Central America, the Amazon rainforest and south to Paraguay and northern Argentina. It inhabits a variety of forested and open terrains, but its preferred habitat is tropical and subtropical moist broadleaf forest, wetlands and wooded regions. It is adept at swimming and is largely a solitary, opportunistic, stalk-and-ambush apex predator. As a keystone species, it plays an important role in stabilizing ecosystems and in regulating prey populations.\n\nThe jaguar is threatened by habitat loss, habitat fragmentation, poaching for trade with its body parts and killings in human–wildlife conflict situations, particularly with ranchers in Central and South America. It has been listed as Near Threatened on the IUCN Red List since 2002. The wild population is thought to have declined since the late 1990s. Priority areas for jaguar conservation comprise 51 Jaguar Conservation Units (JCUs), defined as large areas inhabited by at least 50 breeding jaguars. The JCUs are located in 36 geographic regions ranging from Mexico to Argentina.\n\nThe jaguar has featured prominently in the mythology of indigenous peoples of the Americas, including those of the Aztec and Maya civilizations.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Jaguar"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1551270988-87c5ea57cdfe?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8S2FuZ2Fyb298ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/2f33ykzzPCU"
+      },
+      "title": "Kangaroo",
+      "content": "Kangaroos are four marsupials from the family Macropodidae (macropods, meaning \"large foot\"). In common use the term is used to describe the largest species from this family, the red kangaroo, as well as the antilopine kangaroo, eastern grey kangaroo, and western grey kangaroo.[1] Kangaroos are indigenous to Australia and New Guinea. The Australian government estimates that 42.8 million kangaroos lived within the commercial harvest areas of Australia in 2019, down from 53.2 million in 2013.[2]\nreplaced by new teeth that grow in the back.[5] This process is known as polyphyodonty and, amongst other mammals, only occurs in elephants and manatees.\n\nThe large kangaroos have adapted much better than the smaller macropods to land clearing for pastoral agriculture and habitat changes brought to the Australian landscape by humans. Many of the smaller species are rare and endangered, while kangaroos are relatively plentiful.\n\nThe kangaroo along with the koala are symbols of Australia. A kangaroo appears on the Australian coat of arms[6] and on some of its currency,[7] and is used as a logo for some of Australia's most well-known organisations, such as Qantas,[8] and as the roundel of the Royal Australian Air Force.[9] The kangaroo is important to both Australian culture and the national image, and consequently there are numerous popular culture references.\n\nWild kangaroos are shot for meat, leather hides, and to protect grazing land.[10] Kangaroo meat has perceived health benefits for human consumption compared with traditional meats due to the low level of fat on kangaroos.[11]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Kangaroo"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8TGlvbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/ZxNKxnR32Ng"
+      },
+      "title": "Lion",
+      "content": "The lion (Panthera leo) is a large cat of the genus Panthera native to Africa and India. It has a muscular, broad-chested body; short, rounded head; round ears; and a hairy tuft at the end of its tail. It is sexually dimorphic; adult male lions are larger than females and have a prominent mane. It is a social species, forming groups called prides. A lion's pride consists of a few adult males, related females, and cubs. Groups of female lions usually hunt together, preying mostly on large ungulates. The lion is an apex and keystone predator; although some lions scavenge when opportunities occur and have been known to hunt humans, lions typically do not actively seek out and prey on humans.\nThe lion inhabits grasslands, savannahs and shrublands. It is usually more diurnal than other wild cats, but when persecuted, it adapts to being active at night and at twilight. During the Neolithic period, the lion ranged throughout Africa and Eurasia from Southeast Europe to India, but it has been reduced to fragmented populations in sub-Saharan Africa and one population in western India. It has been listed as Vulnerable on the IUCN Red List since 1996 because populations in African countries have declined by about 43% since the early 1990s. Lion populations are untenable outside designated protected areas. Although the cause of the decline is not fully understood, habitat loss and conflicts with humans are the greatest causes for concern.\n\nOne of the most widely recognised animal symbols in human culture, the lion has been extensively depicted in sculptures and paintings, on national flags, and in contemporary films and literature. Lions have been kept in menageries since the time of the Roman Empire and have been a key species sought for exhibition in zoological gardens across the world since the late 18th century. Cultural depictions of lions were prominent in Ancient Egypt, and depictions have occurred in virtually all ancient and medieval cultures in the lion's historic and current range.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Lion"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1624116518496-993146f67f4a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TW91c2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/QxW15BmJxOQ"
+      },
+      "title": "Mouse",
+      "content": "A mouse (pl: mice) is a small rodent. Characteristically, mice are known to have a pointed snout, small rounded ears, a body-length scaly tail, and a high breeding rate. The best known mouse species is the common house mouse (Mus musculus). Mice are also popular as pets. In some places, certain kinds of field mice are locally common. They are known to invade homes for food and shelter.\nMice are typically distinguished from rats by their size. Generally, when a muroid rodent is discovered, its common name includes the term mouse if it is smaller, or rat if it is larger. The common terms rat and mouse are not taxonomically specific. Typical mice are classified in the genus Mus, but the term mouse is not confined to members of Mus and can also apply to species from other genera such as the deer mouse, Peromyscus.\n\nDomestic mice sold as pets often differ substantially in size from the common house mouse. This is attributable to breeding and different conditions in the wild. The best-known strain of mouse is the white lab mouse. It has more uniform traits that are appropriate to its use in research.\n\nCats, wild dogs, foxes, birds of prey, snakes and even certain kinds of arthropods have been known to prey heavily upon mice. Despite this, mice populations remain plentiful. Due to its remarkable adaptability to almost any environment, the mouse is one of the most successful mammalian genera living on Earth today.\n\nIn certain contexts, mice can be considered vermin. Vermin are a major source of crop damage,[1] as they are known to cause structural damage and spread disease. Mice spread disease through their feces and are often carriers of parasites.[2] In North America, breathing dust that has come in contact with mouse excrement has been linked to hantavirus, which may lead to hantavirus pulmonary syndrome (HPS).\n\nPrimarily nocturnal[3] animals, mice compensate for their poor eyesight with a keen sense of hearing. They depend on their sense of smell to locate food and avoid predators.[4]\n\nIn the wild, mice are known to build intricate burrows. These burrows have long entrances and are equipped with escape tunnels. In at least one species, the architectural design of a burrow is a genetic trait.[5]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Mouse"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1588740370137-1df6dd681b27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fE5hdXRpbHVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/iFJKtvBICqg"
+      },
+      "title": "Nautilus",
+      "content": "The nautilus (from Latin nautilus 'paper nautilus', from Ancient Greek ναυτίλος nautílos 'sailor')[3] is a pelagic marine mollusc of the cephalopod family Nautilidae. The nautilus is the sole extant family of the superfamily Nautilaceae and of its smaller but near equal suborder, Nautilina.\nIt comprises nine living species in two genera, the type of which is the genus Nautilus. Though it more specifically refers to species Nautilus pompilius, the name chambered nautilus is also used for any of the Nautilidae. All are protected under CITES Appendix II.[4] Depending on species, adult shell diameter is between 10 and 25 cm (4 and 10 inches).\n\nNautilidae, both extant and extinct, are characterized by involute or more or less convolute shells that are generally smooth, with compressed or depressed whorl sections, straight to sinuous sutures, and a tubular, generally central siphuncle.[5] Having survived relatively unchanged for hundreds of millions of years, nautiluses represent the only living members of the subclass nautiloidea, and are often considered \"living fossils\".\n\nThe word nautilus is derived from the Greek word ναυτίλος nautílos \"sailor\", it originally referred to a type of octopus of the genus Argonauta, also known as 'paper nautilus', which were thought to use two of their arms as sails.[6][7]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Nautilus"
+      }
+    },
+    {
+      "title": "Owl",
+      "img": "https://images.unsplash.com/photo-1553264701-d138db4fd5d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8T3dsfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60",
+      "content": "Owls are birds from the order Strigiformes[1] (/ˈstrɪdʒəfɔːrmiːz/), which includes over 200 species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.\n\nOwls hunt mostly small mammals, insects, and other birds, although a few species specialize in hunting fish. They are found in all regions of the Earth except the polar ice caps and some remote islands.\n\nOwls are divided into two families: the true (or typical) owl family, Strigidae, and the barn-owl family, Tytonidae.[2]\n\nA group of owls is called a \"parliament\".[3]",
+      "imgSource": null,
+      "contentSource": null
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1604826010917-65cf53d6249b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fFBhcnJvdHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/0UKyrKCoutM"
+      },
+      "title": "Parrot",
+      "content": "Parrots, also known as psittacines (/ˈsɪtəsaɪnz/),[1][2] are birds of the order Psittaciformes (/ˈsɪtəsɪfɔːrmiːz/) and are found mostly in tropical and subtropical regions. They are made up of four families that contain roughly 410 species in 101 genera. The four families are: Psittaculidae (Old World parrots) , the Psittacidae (African and New World parrots), the Cacatuoidea (cockatoos), and the Strigopidae (New Zealand parrots). One-third of all parrot species are threatened by extinction, with higher aggregate extinction risk (IUCN Red List Index) than any other comparable bird group.[3] Parrots have a generally pantropical distribution with several species inhabiting temperate regions in the Southern Hemisphere, as well. The greatest diversity of parrots is in South America[4] and Australasia.[5]\n\nCharacteristic features of parrots include a strong, curved bill, an upright stance, strong legs, and clawed zygodactyl feet. Many parrots are vividly coloured, and some are multi-coloured. Most parrots exhibit little or no sexual dimorphism in the visual spectrum. They form the most variably sized bird order in terms of length.\n\nThe most important components of most parrots' diets are seeds, nuts, fruit, buds, and other plant material. A few species sometimes eat animals and carrion, while the lories and lorikeets are specialised for feeding on floral nectar and soft fruits. Almost all parrots nest in tree hollows (or nest boxes in captivity), and lay white eggs from which hatch altricial (helpless) young.\n\nParrots, along with ravens, crows, jays, and magpies, are among the most intelligent birds, and the ability of some species to imitate human speech enhances their popularity as pets. Trapping wild parrots for the pet trade, as well as hunting, habitat loss, and competition from invasive species, has diminished wild populations, with parrots being subjected to more exploitation than any other group of birds. As of 2021, about 50 million parrots (half of all parrots) live in captivity, with the vast majority of these living as pets in people's homes.[6] Measures taken to conserve the habitats of some high-profile charismatic species have also protected many of the less charismatic species living in the same ecosystems.\n\nParrots are the only creatures that display true tripedalism, using their necks and beaks as limbs with propulsive forces equal to or greater than those forces generated by the forelimbs of primates when climbing vertical surfaces. They can travel with cyclical tripedal gaits when climbing.[7]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Parrot"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1677806417616-7caa89197326?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8UXVldHphbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/UHxY03ITZEw"
+      },
+      "title": "Quetzal",
+      "content": "Quetzals (/kɛtˈsɑːl, ˈkɛtsəl/) are strikingly colored birds in the trogon family. They are found in forests, especially in humid highlands, with the five species from the genus Pharomachrus being exclusively Neotropical, while a single species, the eared quetzal, Euptilotis neoxenus, is found in Guatemala, sometimes in Mexico and very locally in the southernmost United States.[1] In the highlands of the states of Sonora, Chihuahua, Sinaloa, Durango, Nayarit, Zacatecas, Jalisco, and Michoacán, the eared quetzal can be found from northwest to west-central Mexico. It is a Mesoamerican indigenous species, but some reports show that it occasionally travels and nests in southeastern Arizona and New Mexico in the United States. June to October is the mating season for eared quetzals.[2] Quetzals are fairly large (all over 32 cm or 13 inches long), slightly bigger than other trogon species.[3][4] The resplendent quetzal is the national bird of Guatemala because of its vibrant colour.\n\nQuetzals have iridescent green or golden-green wing coverts, back, chest and head, with a red belly. Their wings are suited to camouflage under rainy conditions, because their feathers blend well with wet and shiny green area.[5] They are strongly sexually dimorphic, and parts of the females' plumage are brown or grey. The tails of the male quetzals may take up to three years after reaching maturity to grow to the maximum length[6].These largely solitary birds feed on fruits, berries, insects and small vertebrates (such as frogs).[3][4] Even with their famous bright plumage, they can be hard to see in their natural wooded habitats.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Quetzal"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1598894000396-bc30e0996899?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Umhpbm9jZXJvc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/oxRNH9YA22s"
+      },
+      "title": "Rhinoceros",
+      "content": "A rhinoceros (/raɪˈnɒsərəs/; from Ancient Greek ῥῑνόκερως (rhīnókerōs) 'nose-horned'; from ῥῑ́ς (rhī́s) 'nose', and κέρας (kéras) 'horn'[1]), commonly abbreviated to rhino, is a member of any of the five extant species (or numerous extinct species) of odd-toed ungulates in the family Rhinocerotidae (it can also refer to a member of any of the extinct species of the superfamily Rhinocerotoidea). Two of the extant species are native to Africa, and three to South and Southeast Asia.\n\nRhinoceroses are some of the largest remaining megafauna: all weigh at least one tonne in adulthood. They have a herbivorous diet, small brains 400–600 g (14–21 oz) for mammals of their size, one or two horns, and a thick 1.5–5 cm (0.59–1.97 in), protective skin formed from layers of collagen positioned in a lattice structure. They generally eat leafy material, although their ability to ferment food in their hindgut allows them to subsist on more fibrous plant matter when necessary. Unlike other perissodactyls, the two African species of rhinoceros lack teeth at the front of their mouths; they rely instead on their lips to pluck food.[2]\n\nRhinoceroses are killed by poachers for their horns, which are bought and sold on the black market for high prices, leading to most living rhinoceros species being considered endangered. The contemporary market for rhino horn is overwhelmingly driven by China and Vietnam, where it is bought by wealthy consumers to use in traditional Chinese medicine, among other uses. Rhino horns are made of keratin, the same material as hair and fingernails, and there is no good evidence of any health benefits.[3][4][5] A market also exists for rhino horn dagger handles in Yemen, which was the major source of demand for rhino horn in the 1970s and 1980s.[6]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Rhinoceros"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8U25ha2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=300&q=60",
+      "title": "Snake",
+      "content": "Snakes are elongated, limbless, carnivorous reptiles of the suborder Serpentes (/sɜːrˈpɛntiːz/).[2] Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads (cranial kinesis). To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung. Some species retain a pelvic girdle with a pair of vestigial claws on either side of the cloaca. Lizards have independently evolved elongate bodies without limbs or with greatly reduced limbs at least twenty-five times via convergent evolution, leading to many lineages of legless lizards.[3] These resemble snakes, but several common groups of legless lizards have eyelids and external ears, which snakes lack, although this rule is not universal (see Amphisbaenia, Dibamidae, and Pygopodidae).\n\nLiving snakes are found on every continent except Antarctica, and on most smaller land masses; exceptions include some large islands, such as Ireland, Iceland, Greenland, the Hawaiian archipelago, and the islands of New Zealand, as well as many small islands of the Atlantic and central Pacific oceans.[4] Additionally, sea snakes are widespread throughout the Indian and Pacific oceans. Around thirty families are currently recognized, comprising about 520 genera and about 3,900 species.[5] They range in size from the tiny, 10.4 cm-long (4.1 in) Barbados threadsnake[6] to the reticulated python of 6.95 meters (22.8 ft) in length.[7] The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long.[8] Snakes are thought to have evolved from either burrowing or aquatic lizards, perhaps during the Jurassic period, with the earliest known fossils dating to between 143 and 167 Ma ago.[9][10] The diversity of modern snakes appeared during the Paleocene epoch (c. 66 to 56 Ma ago, after the Cretaceous–Paleogene extinction event). The oldest preserved descriptions of snakes can be found in the Brooklyn Papyrus.\n\nMost species of snake are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense. Some possess venom that is potent enough to cause painful injury or death to humans. Nonvenomous snakes either swallow prey alive or kill by constriction.",
+      "contentSource": null
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/gRB4Euk4BYQ43"
+      },
+      "title": "Tiger",
+      "content": "The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange fur with a white underside. An apex predator, it primarily preys on ungulates, such as deer and wild boar. It is territorial and generally a solitary but social predator, requiring large contiguous areas of habitat to support its requirements for prey and rearing of its offspring. Tiger cubs stay with their mother for about two years and then become independent, leaving their mother's home range to establish their own.\n\nThe tiger was first scientifically described in 1758. It once ranged widely from the Eastern Anatolia Region in the west to the Amur River basin in the east, and in the south from the foothills of the Himalayas to Bali in the Sunda Islands. Since the early 20th century, tiger populations have lost at least 93% of their historic range and have been extirpated from Western and Central Asia, the islands of Java and Bali, and in large areas of Southeast and South Asia and China. What remains of the range where tigers still roam free is fragmented, stretching in spots from Siberian temperate forests to subtropical and tropical forests on the Indian subcontinent, Indochina and a single Indonesian island, Sumatra.\n\nThe tiger is listed as Endangered on the IUCN Red List. As of 2015, the global wild tiger population was estimated to number between 3,062 and 3,948 mature individuals, with most populations living in small isolated pockets. India currently hosts the largest tiger population. Major reasons for population decline are habitat destruction, habitat fragmentation and poaching. Tigers are also victims of human–wildlife conflict, due to encroachment in countries with a high human population density.\n\nThe tiger is among the most recognisable and popular of the world's charismatic megafauna. It featured prominently in the ancient mythology and folklore of cultures throughout its historic range and continues to be depicted in modern films and literature, appearing on many flags, coats of arms and as mascots for sporting teams. The tiger is the national animal of India, Bangladesh, Malaysia and South Korea.",
+      "contentSource": {
+        "title": "Unsplash",
+        "url": "https://en.wikipedia.org/wiki/Tiger"
+      }
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cephalopterus_penduligerIbisV1-1859-p003AA.jpg/220px-Cephalopterus_penduligerIbisV1-1859-p003AA.jpg",
+      "imgSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Umbrellabird#/media/File:Cephalopterus_penduligerIbisV1-1859-p003AA.jpg"
+      },
+      "title": "Uakari",
+      "content": "Umbrellabird is the common name referring to three species of birds in the genus Cephalopterus. They are named for their distinct umbrella-like hoods.\n\nThe umbrellabird was described by Sir Alfred Wallace, a companion of Charles Darwin, in the 1800s while on an expedition to South America.[2] Umbrellabirds face habitat loss, and two of the three species are at risk of extinction.\n\nUmbrellabirds can be found in the rainforests of Central and South America. They are generally solitary, but known to co-inhabit areas with other birds including other umbrellabirds, and similar species such as woodpeckers.[3]\n\nWith a total length of 35–50 cm (14–19.5 in), it is among the largest members of the cotinga family, and the male Amazonian umbrellabird is the largest passerine in South America. The typical weight of an umbrellabird ranges from 320 to 570 g (.77 to 1.26 lbs), with a wingspan reaching about 66 to 71 cm (26 to 28 in).[4]\n\nUmbrellabirds are thought to live for an average of 16 years in the wild.[5]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Umbrellabird"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1592820634676-703a6e015802?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8VnVsdHVyZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/8leADP9XdG8"
+      },
+      "title": "Vulture",
+      "content": "A vulture is a bird of prey that scavenges on carrion. There are 23 extant species of vulture (including Condors).[2] Old World vultures include 16 living species native to Europe, Africa, and Asia; New World vultures are restricted to North and South America and consist of seven identified species, all belonging to the Cathartidae family.[2][3] A particular characteristic of many vultures is a bald, unfeathered head. This bare skin is thought to keep the head clean when feeding, and also plays an important role in thermoregulation.[4]\n\nVultures have been observed to hunch their bodies and tuck in their heads in the cold, and open their wings and stretch their necks in the heat. They also urinate on themselves as a means of cooling their bodies.[5]\n\nA group of vultures in flight is called a 'kettle', while the term 'committee' refers to a group of vultures resting on the ground or in trees. A group of vultures that are feeding is termed a 'wake'.[6]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Vulture"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1460899960812-f6ee1ecaf117?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8V2FscnVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60",
+      "imgSource": null,
+      "title": "Walrus",
+      "content": "The walrus (Odobenus rosmarus) is a large pinniped marine mammal with discontinuous distribution about the North Pole in the Arctic Ocean and subarctic seas of the Northern Hemisphere. It is the only extant species in the family Odobenidae and genus_ Odobenus_. This species is subdivided into two subspecies:[2] the Atlantic walrus (O. r. rosmarus), which lives in the Atlantic Ocean, and the Pacific walrus (O. r. divergens), which lives in the Pacific Ocean.\n\nAdult walrus are characterised by prominent tusks and whiskers, and considerable bulk: adult males in the Pacific can weigh more than 2,000 kilograms (4,400 pounds)[3] and, among pinnipeds, are exceeded in size only by the two species of elephant seals.[4] Walrus live mostly in shallow waters above the continental shelves, spending significant amounts of their lives on the sea ice looking for benthic bivalve molluscs. Walruses are relatively long-lived, social animals, and are considered to be a \"keystone species\" in the Arctic marine regions.\n\nThe walrus has played a prominent role in the cultures of many indigenous Arctic peoples, who have hunted it for meat, fat, skin, tusks, and bone. During the 19th century and the early 20th century, walrus were widely hunted for their blubber, walrus ivory, and meat. The population of walruses dropped rapidly all around the Arctic region. It has rebounded somewhat since, though the populations of Atlantic and Laptev walruses remain fragmented and at low levels compared with the time before human interference.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Walrus"
+      }
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Xenops_minutus_-_Plain_xenops%3B_Restinga_de_Bertioga_State_Park%2C_S%C3%A3o_Paulo%2C_Brazil.jpg/120px-Xenops_minutus_-_Plain_xenops%3B_Restinga_de_Bertioga_State_Park%2C_S%C3%A3o_Paulo%2C_Brazil.jpg",
+      "imgSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Xenops#/media/File:Xenops_minutus_-_Plain_xenops;_Restinga_de_Bertioga_State_Park,_S%C3%A3o_Paulo,_Brazil.jpg"
+      },
+      "title": "Xenops",
+      "content": "Xenops is a genus in the bird family Furnariidae, the ovenbirds. The genus comprises four species of xenops, all of which are found in Mexico, Central America and South America, particularly in tropical rain forests.\n\nThey are small birds with a longish tail, a laterally flattened bill with an upturned tip (except in the slender-billed xenops), brown back and buff or rufous wing stripe. They forage for insects on bark, rotting stumps or bare twigs, moving mechanically in all directions on the trunk like a woodcreeper, but without using the tail as a prop.\n\nTogether with the distinct great xenops (Megaxenops parnaguae), this genus forms the tribe Xenopini, which based on some recent studies belongs in the woodcreeper and xenops subfamily Dendrocolaptinae,[2] while others have found them to be part of the \"traditional\" ovenbirds.[3] A study from 2013 found that they should be a family distinct from both.[4]",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Xenops"
+      }
+    },
+    {
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellowfin_tuna_nurp.jpg/220px-Yellowfin_tuna_nurp.jpg",
+      "imgSource": {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Yellowfin_tuna#/media/File:Yellowfin_tuna_nurp.jpg"
+      },
+      "title": "Yellowfin Tuna",
+      "content": "The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide.\n\nYellowfin is often marketed as ahi, from the Hawaiian ʻahi, a name also used there for the closely related bigeye tuna.[3] The species name, albacares (\"white meat\") can also lead to confusion: in English, the albacore (Thunnus alalunga) is a different species, while yellowfin is officially designated albacore in French and referred to as albacora by Portuguese fishermen.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Yellowfin_tuna"
+      }
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1526319238109-524eecb9b913?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8WmVicmF8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=300&q=60",
+      "imgSource": {
+        "title": "Unsplash",
+        "url": "https://unsplash.com/photos/UgidX4V13Gc"
+      },
+      "title": "Zebra",
+      "content": "Zebras (US: /ˈziːbrəz/, UK: /ˈzɛbrəz, ˈziː-/)[1] (subgenus Hippotigris) are African equines with distinctive black-and-white striped coats. There are three living species: the Grévy's zebra (Equus grevyi), plains zebra (E. quagga), and the mountain zebra (E. zebra). Zebras share the genus Equus with horses and asses, the three groups being the only living members of the family Equidae. Zebra stripes come in different patterns, unique to each individual. Several theories have been proposed for the function of these stripes, with most evidence supporting them as a deterrent for biting flies. Zebras inhabit eastern and southern Africa and can be found in a variety of habitats such as savannahs, grasslands, woodlands, shrublands, and mountainous areas.\n\nZebras are primarily grazers and can subsist on lower-quality vegetation. They are preyed on mainly by lions, and typically flee when threatened but also bite and kick. Zebra species differ in social behaviour, with plains and mountain zebra living in stable harems consisting of an adult male or stallion, several adult females or mares, and their young or foals; while Grévy's zebra live alone or in loosely associated herds. In harem-holding species, adult females mate only with their harem stallion, while male Grévy's zebras establish territories which attract females and the species is promiscuous. Zebras communicate with various vocalisations, body postures and facial expressions. Social grooming strengthens social bonds in plains and mountain zebras.\n\nZebras' dazzling stripes make them among the most recognisable mammals. They have been featured in art and stories in Africa and beyond. Historically, they have been highly sought after by exotic animal collectors, but unlike horses and donkeys, zebras have never been truly domesticated. The International Union for Conservation of Nature (IUCN) lists the Grévy's zebra as endangered, the mountain zebra as vulnerable and the plains zebra as near-threatened. The quagga (E. quagga quagga), a type of plains zebra, was driven to extinction in the 19th century. Nevertheless, zebras can be found in numerous protected areas.",
+      "contentSource": {
+        "title": "Wikipedia",
+        "url": "https://en.m.wikipedia.org/wiki/Zebra"
+      }
+    }
+  ]
+}
