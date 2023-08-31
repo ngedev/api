@@ -17,6 +17,13 @@
     },
     {
       "img": "https://images.unsplash.com/photo-1614481779176-68de49e77fb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QWxiYXRyb3NzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+      "imgSource": null,
+      "title": "HTML Style 2",
+      "content": "<h2><span id=\"Jenis_dan_cara_penulisan_artikel\" class=\"mw-headline\">Jenis dan cara penulisan artikel</span></h2>\n<h3><span id=\"Deskripsi\" class=\"mw-headline\">Deskripsi</span></h3>\n<p>Karangan ini berisi gambaran mengenai suatu hal/keadaan sehingga pembaca seolah-olah melihat, mendengar, atau merasakan hal tersebut.</p>\n<p>Contoh deskripsi berisi fakta:</p>\n<blockquote class=\"templatequote\">\n<p>Hampir semua pelosok Mentawai indah. Di empat kecamatan masih terdapat hutan yang masih perawan. Hutan ini menyimpan ratusan jenis flora dan fauna. Hutan&nbsp;Mentawai&nbsp;juga menyimpan anggrek aneka jenis dan fauna yang hanya terdapat di Mentawai. Siamang kerdil, lutung Mentawai dan beruk Simakobu adalah contoh&nbsp;primata&nbsp;yang menarik untuk bahan penelitian dan objek wisata.</p>\n</blockquote>\n<p>Contoh deskripsi berupa fiksi:</p>\n<blockquote class=\"templatequote\">\n<p>Salju tipis melapis rumput, putih berkilau diseling warna jingga; bayang matahari senja yang memantul. Angin awal musim dingin bertiup menggigilkan, mempermainkan daun-daun sisa musim gugur dan menderaikan bulu-bulu burung berwarna kuning kecoklatan yang sedang meloncat-loncat dari satu ranting ke ranting yang lain.</p>\n</blockquote>\n<p>Topik yang tepat untuk deskripsi misalnya:</p>\n<ul>\n<li>Keindahan Bukit Kintamani;</li>\n<li>Suasana pelaksanaan;</li>\n<li>Promosi;</li>\n<li>Kompetensi Siswa SMK Tingkat Nasional;</li>\n<li>Keadaan ruang praktik;</li>\n<li>Keadaan daerah yang dilanda bencana.</li>\n</ul>\n<p>Langkah menyusun deskripsi:</p>\n<ul>\n<li>Tentukan objek atau tema yang akan dideskripsikan;</li>\n<li>Tentukan tujuan;</li>\n<li>Tentukan aspek-aspek yang akan dideskripsikan dengan melakukan pengamatan;</li>\n<li>Susunlah aspek-aspek tersebut ke dalam urutan yang baik, apakah urutan lokasi, urutan waktu, atau urutan menurut kepentingan;</li><li>Kembangkan kerangka menjadi deskripsi.</li></ul>",
+      "contentSource": null
+    },
+    {
+      "img": "https://images.unsplash.com/photo-1614481779176-68de49e77fb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8QWxiYXRyb3NzfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
       "imgSource": {
         "title": "Unsplash",
         "url": "https://unsplash.com/photos/5IYqAH4ZTrM"
